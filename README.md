@@ -14,7 +14,7 @@
 - [**earth-observation-workflows**](https://github.com/AstreEO/earth-observation-workflows)  
   FAIR EO workflows for Sentinel-1, Sentinel-2, and SAOCOM data (NDVI, PRI, RVI).
 
-- [**flaib-public**](https://github.com/AstreEO/flaib-public)  
+- [**flaib**](https://github.com/AstreEO/flaib-public)  
   FLAIB: modular AI-driven balloon system for atmospheric and environmental monitoring.
 
 - [**personal-cloud-infra**](https://github.com/AstreEO/personal-cloud-infra)  
