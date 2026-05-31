@@ -1,40 +1,36 @@
-# 👋 Hi, I'm Sebastiano Pietro Pizzuto (AstreEO)
+# Sebastiano Pietro Pizzuto
 
-🌍 Passionate about **Earth Observation (EO)**, **synthetic data**, and **machine learning pipelines**.  
-🎬 Bridging **VFX & Blender** workflows with **Sentinel & SAOCOM EO data** for reproducible experiments.  
-📊 Applying **FAIR principles** to ensure transparency, accessibility, and reusability in EO projects.  
-
----
-
-## 🔧 Projects
-
-- [**synthetic-eo-pipeline**](https://github.com/AstreEO/synthetic-eo-pipeline)  
-  Synthetic data with Blender & Sentinel-2 Rome pipeline — bridging VFX and Earth Observation.
-
-- [**earth-observation-workflows**](https://github.com/AstreEO/earth-observation-workflows)  
-  FAIR EO workflows for Sentinel-1, Sentinel-2, and SAOCOM data (NDVI, PRI, RVI).
-
-- [**flaib**](https://github.com/AstreEO/flaib-public)  
-  FLAIB: modular AI-driven balloon system for atmospheric and environmental monitoring.
-
-- [**personal-cloud-infra**](https://github.com/AstreEO/personal-cloud-infra)  
-  Self-hosted cloud & automation infrastructure for EO/ML pipelines.
+Electronic & System Engineer with professional background in power distribution systems,
+mission-critical infrastructure, FAT/SAT commissioning and technical documentation.
+Passionate about science, technological innovation and applied engineering.
 
 ---
 
-## 📚 Training & References
+## Projects
 
-- EO College: *Understanding SAOCOM (L-band SAR)*, *Land in Focus*  
-- Copernicus RUS trainings  
-- AWS Cloud Practitioner Essentials  
+- **[cms-pt5-twin](https://github.com/AstreEO/cms-pt5-twin)**
+  EPICS-based digital twin of CMS Point 5 electrical infrastructure (USC55/UXC55).
+  Fault injection library, automated logbook, dispatch system and Phoebus CS-Studio
+  operator display. Fault scenarios inspired by documented CMS operational events
+  (CDS-1361756).
+
+- **[personal-cloud-infra](https://github.com/AstreEO/personal-cloud-infra)**
+  Self-hosted distributed infrastructure: Raspberry Pi cluster, Docker service stack,
+  monitoring (Prometheus, Grafana), VPN and automation pipelines.
+
+- **[earth-observation-workflows](https://github.com/AstreEO/earth-observation-workflows)**
+  FAIR pipelines for Sentinel-1, Sentinel-2 and SAOCOM data (NDVI, RVI, SAR preprocessing).
+
+- **[synthetic-eo-pipeline](https://github.com/AstreEO/synthetic-eo-pipeline)**
+  Synthetic EO data generation with Blender and Sentinel-2.
+
+- **[flaib](https://github.com/AstreEO/flaib-public)**
+  Modular AI-driven balloon system for atmospheric monitoring with LoRa distributed
+  communication and embedded firmware.
 
 ---
 
-## 📫 Connect
+## Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sebastiano-pietro-pizzuto-b2a00b1b7)  
-- 📍 Rome, Italy  
-
----
-
-✨ *Learning in public, bridging synthetic & satellite pixels.*  
+- [LinkedIn](https://www.linkedin.com/in/sebastianopizzuto)
+- Rome, Italy
